@@ -31,7 +31,7 @@ class SocketClient:
     
     def receive_response(self):
         try:
-            response = self.sock.recv(4096) 
+            response = self.sock.recv(4096)  # Buffer size
             return response.decode('utf-8')
         except socket.error as e:
             print(f"Failed to receive response: {e}")

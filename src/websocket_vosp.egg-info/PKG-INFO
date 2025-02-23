@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: websocket_vosp
-Version: 0.1.0
+Version: 0.1.1
 Summary: A WebSocket client package for handling WebSocket connections
 Home-page: https://github.com/MsnVt/websocketsvosp
 Author: Mason Vospette

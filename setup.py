@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='websocket_vosp',  # Name of your package
-    version='0.1.1',        # Version of the package
+    version='0.1.2',        # Version of the package
     description='A WebSocket client package for handling WebSocket connections',
     long_description=open('README.md').read(),  # If you have a README
     long_description_content_type='text/markdown',

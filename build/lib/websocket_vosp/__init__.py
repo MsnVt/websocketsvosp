@@ -1,1 +1,1 @@
-from .socket_client import SocketClient
+from .main import SocketClient
